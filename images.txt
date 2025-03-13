@@ -10,3 +10,4 @@ rabbitmq:3.12.10
 nacos/nacos-server:v2.0.4
 mariadb:11.1
 nginx
+minio
