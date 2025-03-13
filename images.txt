@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0.23
 redis:3.2.10
 rabbitmq:3.12.10
+nacos/nacos-server:v2.0.4
